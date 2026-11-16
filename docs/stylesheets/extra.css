@@ -1,0 +1,24 @@
+/* Modo claro: lila */
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: #7e57c2;
+  --md-primary-fg-color--light: #b39ddb;
+  --md-primary-fg-color--dark: #5e35b1;
+  --md-accent-fg-color: #b388ff;
+}
+
+/* Modo oscuro: negro + lila */
+[data-md-color-scheme="slate"] {
+  --md-default-bg-color: #000000;
+  --md-default-bg-color--light: #0d0d0d;
+  --md-code-bg-color: #121212;
+  --md-primary-fg-color: #9575cd;
+  --md-primary-fg-color--light: #b39ddb;
+  --md-primary-fg-color--dark: #7e57c2;
+  --md-accent-fg-color: #d1b3ff;
+  --md-typeset-a-color: #b39ddb;
+}
+
+[data-md-color-scheme="slate"] .md-header,
+[data-md-color-scheme="slate"] .md-tabs {
+  background-color: #1a1025;
+}
