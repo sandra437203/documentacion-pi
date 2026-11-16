@@ -1,0 +1,19 @@
+site_name: Documentacion PI
+theme:
+  name: material
+nav:
+
+  - Inicio: index.md
+  - 1. Presentación: presentacion.md
+  - 2. Caracterización: caracterizacion.md
+  - 3. Análisis de requisitos: analisis-requisitos.md
+  - 4. Diseño de la solución: diseno-solucion.md
+  - 5. Planificación: planificacion.md
+  - 6. Modelo de datos: modelo_datos.md
+  - 7. Arquitectura: arquitectura.md
+  - 8. Desarrollo: desarrollo.md
+  - 9. Pruebas: pruebas.md
+  - 10. Seguridad: seguridad.md
+  - 11. Puesta en marcha: puesta_marcha.md
+  - 12. Manuales: manuales.md
+  - 13. Conclusiones: conclusiones.md
